@@ -31,9 +31,6 @@ while drawing:
         timer = 0
         time_limit -= 50
 
-
-
-
     line_height += line_speed
     
     window.fill(frame_color)
