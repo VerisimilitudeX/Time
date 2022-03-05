@@ -1,9 +1,3 @@
-"""
-LESSON: 3.6 - Time
-EXERCISE: Moving Art Gallery
-PROBLEM: 1 of 4
-"""
-
 # Libraries
 import pygame
 pygame.init()
@@ -39,9 +33,6 @@ while not quit:
         iris_x += timer/5
         pupil_x += timer/5
     # Move eye
-
-
-
     if iris_x > 400 or iris_x < -10:
         movingRight = not movingRight
     if pupil_x > 400 or pupil_x < -10:
