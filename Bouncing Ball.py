@@ -1,9 +1,3 @@
-"""
-LESSON: 3.6 - Time
-EXERCISE: Moving Art Gallery
-PROBLEM: 4 of 4
-"""
-
 # Libraries
 import pygame
 pygame.init()
